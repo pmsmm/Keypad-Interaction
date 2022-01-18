@@ -18,6 +18,8 @@ This mini game, or interaction as I so call it, was developed to be part of an E
 
 In order to fully assemble the Interaction, so as to look like the picture below, you will also need to 3D Print the enclosure which is divided into two parts that can be found [here](enclosure/). Additionally, you will also need to 3D Print the keycaps which **were not** designed by me but can be found in [Thingiverse](https://www.thingiverse.com/thing:2783650).
 
+![Assembled Interaction](images/AssembledInteraction.jpeg)
+
 ## The Purpose of The Game
 
 This game was intended to be played as part of an Escape the Room but it can still be used as a fun project with other purposes besides a game. As many might have guessed, the purpose of this game is to introduce a secret code using the 4x4 keypad and if the code is correct the green LED will light up.
