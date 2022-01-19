@@ -1,4 +1,4 @@
-# Keypad-Interaction
+# Keypad Interaction
 
 The Keypad Interaction is a mini game that was developed for my Master Thesis "Developing a Support Infrastructure for an Escape The Room and Peddy Paper Games".
 
